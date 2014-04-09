@@ -21,6 +21,7 @@
 		68D4794418E160A900C3BA85 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 68D4792618E160A900C3BA85 /* UIKit.framework */; };
 		68D4794C18E160A900C3BA85 /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = 68D4794A18E160A900C3BA85 /* InfoPlist.strings */; };
 		68D4794E18E160A900C3BA85 /* ESTabSwitchButtonTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 68D4794D18E160A900C3BA85 /* ESTabSwitchButtonTests.m */; };
+		68D4795918E1610700C3BA85 /* ESTabSwitchButton.m in Sources */ = {isa = PBXBuildFile; fileRef = 68D4795818E1610700C3BA85 /* ESTabSwitchButton.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -53,6 +54,8 @@
 		68D4794918E160A900C3BA85 /* ESTabSwitchButtonTests-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "ESTabSwitchButtonTests-Info.plist"; sourceTree = "<group>"; };
 		68D4794B18E160A900C3BA85 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
 		68D4794D18E160A900C3BA85 /* ESTabSwitchButtonTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ESTabSwitchButtonTests.m; sourceTree = "<group>"; };
+		68D4795718E1610700C3BA85 /* ESTabSwitchButton.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ESTabSwitchButton.h; sourceTree = "<group>"; };
+		68D4795818E1610700C3BA85 /* ESTabSwitchButton.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ESTabSwitchButton.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -117,6 +120,8 @@
 				68D4793418E160A900C3BA85 /* Main.storyboard */,
 				68D4793718E160A900C3BA85 /* ViewController.h */,
 				68D4793818E160A900C3BA85 /* ViewController.m */,
+				68D4795718E1610700C3BA85 /* ESTabSwitchButton.h */,
+				68D4795818E1610700C3BA85 /* ESTabSwitchButton.m */,
 				68D4793A18E160A900C3BA85 /* Images.xcassets */,
 				68D4792918E160A900C3BA85 /* Supporting Files */,
 			);
@@ -252,6 +257,7 @@
 				68D4793918E160A900C3BA85 /* ViewController.m in Sources */,
 				68D4793318E160A900C3BA85 /* AppDelegate.m in Sources */,
 				68D4792F18E160A900C3BA85 /* main.m in Sources */,
+				68D4795918E1610700C3BA85 /* ESTabSwitchButton.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
