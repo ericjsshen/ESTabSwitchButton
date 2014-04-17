@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>D8E5E692-CC0E-4307-9DBF-63613D7514EA</string>
+	<key>IDESourceControlProjectName</key>
+	<string>ESTabSwitchButton</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>DA6B9A3D-B555-4808-851C-94812BC23B6B</key>
+		<string>https://github.com/ericjsshen/ESTabSwitchButton.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>ESTabSwitchButton.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>DA6B9A3D-B555-4808-851C-94812BC23B6B</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/ericjsshen/ESTabSwitchButton.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>DA6B9A3D-B555-4808-851C-94812BC23B6B</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>DA6B9A3D-B555-4808-851C-94812BC23B6B</string>
+			<key>IDESourceControlWCCName</key>
+			<string>ESTabSwitchButton</string>
+		</dict>
+	</array>
+</dict>
+</plist>

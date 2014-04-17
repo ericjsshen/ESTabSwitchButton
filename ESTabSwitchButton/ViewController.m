@@ -13,10 +13,6 @@
 
 @property (strong, nonatomic) ESTabSwitchButton *button;
 @property (strong, nonatomic) UIScrollView *contentScrollView;
-@property (strong, nonatomic) NSArray *buttonTitles;
-@property (nonatomic, assign) CGFloat buttonRadius;
-@property (nonatomic, assign) CGFloat middleWidth;
-@property (nonatomic, assign) CGFloat xMargin;
 
 @end
 

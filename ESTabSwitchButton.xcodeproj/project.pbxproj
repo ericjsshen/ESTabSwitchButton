@@ -462,6 +462,7 @@
 				68D4795318E160A900C3BA85 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		68D4795418E160A900C3BA85 /* Build configuration list for PBXNativeTarget "ESTabSwitchButtonTests" */ = {
 			isa = XCConfigurationList;
@@ -470,6 +471,7 @@
 				68D4795618E160A900C3BA85 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
